@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calendario</string>
+    <string-array name="roles_array">
+        <item>admin</item>
+        <item>padre</item>
+    </string-array>
+    <string-array name="tipos_evento">
+        <item>taller</item>
+        <item>curso</item>
+    </string-array>
+</resources>
