@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_ver_cursos"
+        android:title="Ver los cursos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_ver_talleres"
+        android:title="Ver los talleres"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_apuntarse_evento"
+        android:title="Apuntarse a un Evento"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_mis_eventos"
+        android:title="Mis Eventos"
+        app:showAsAction="never" />
+</menu>

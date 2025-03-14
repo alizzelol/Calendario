@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_anadir_usuario"
+        android:title="Añadir Usuario"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_lista_usuarios"
+        android:title="Lista de Usuarios"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_anadir_evento"
+        android:title="Añadir Evento"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_lista_eventos"
+        android:title="Lista de Eventos"
+        app:showAsAction="never" />
+
+</menu>

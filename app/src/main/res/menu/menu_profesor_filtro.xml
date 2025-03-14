@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_add_user"
+        android:title="Añadir Usuario" />
+    <item
+        android:id="@+id/menu_user_list"
+        android:title="Lista de Usuarios" />
+    <item
+        android:id="@+id/menu_add_event"
+        android:title="Añadir Evento" />
+    <item
+        android:id="@+id/menu_event_list"
+        android:title="Lista de Eventos" />
+</menu>

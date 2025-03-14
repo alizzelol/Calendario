@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calendario</string>
+    <string name="action_todos">Todos</string>
+    <string name="action_talleres">Talleres</string>
+    <string name="action_cursos">Cursos</string>
+    <string name="action_anadir_usuario">Añadir Usuario</string>
+    <string name="action_lista_usuarios">Lista de Usuarios</string>
+    <string name="action_anadir_evento">Añadir Evento</string>
+    <string name="action_lista_eventos">Lista de Eventos</string>
+    <string-array name="roles_array">
+        <item>admin</item>
+        <item>padre/madre</item>
+    </string-array>
+    <string-array name="tipos_evento">
+        <item>taller</item>
+        <item>curso</item>
+    </string-array>
+</resources>
