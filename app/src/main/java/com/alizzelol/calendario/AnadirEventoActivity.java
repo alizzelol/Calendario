@@ -75,6 +75,7 @@ public class AnadirEventoActivity extends AppCompatActivity {
             return;
         }
 
+
         Map<String, Object> evento = new HashMap<>();
         evento.put("título", titulo);
         evento.put("descripción", descripcion);
